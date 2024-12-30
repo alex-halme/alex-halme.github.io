@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Alex Halme"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alex Halme"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alex-halme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Alex Halme"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "MD-PhD student interested in healthcare, mathematics, philosophy, and composition."
   location         : "Helsinki, Finland"
   employer         : "University of Helsinki"
   uri              : # URL
@@ -196,7 +196,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
