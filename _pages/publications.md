@@ -11,14 +11,14 @@ Academic Publications
 =====
 Corresponding author <u>underlined</u>.
 
-- **Halme ALE**, Roshanov PS, SV Tornberg, et al. Timing of Major Postoperative Bleeding Among Patients Undergoing Surgery. *JAMA Netw Open*. 2024.
+- <u><b>Halme ALE</b></u>, Roshanov PS, SV Tornberg, et al. Timing of Major Postoperative Bleeding Among Patients Undergoing Surgery. *JAMA Netw Open*. 2024.
 - **Halme ALE**, Laakkonen S, Rutanen J, et al. Short- and long-term effects of imatinib in patients hospitalised for COVID-19 infection: A randomised controlled trial. *J. Infect.* 2024.
-- **Halme ALE**, McAlpine K, Martini A. Fixed-effect versus random-effects models for meta-analyses: Pro random-effects. *Eur Urol Focus*. 2023.
+- <u><b>Halme ALE</b></u>, McAlpine K, Martini A. Fixed-effect versus random-effects models for meta-analyses: Pro random-effects. *Eur Urol Focus*. 2023.
 - Singh T, Lavikainen LI, **Halme ALE**, et al. Timing of symptomatic venous thromboembolism after surgery: meta-analysis. *Br J Surg.* 2023.
 - Pourjamal N, Lavikainen LI, **Halme ALE**, et al. Global practice variation in pharmacologic thromboprophylaxis for general and gynaecological surgery: systematic review. *BJS Open*. 2022.
-- Lavikainen LI, Guyatt GH, Sallinen VJ, …, **Halme ALE**, et al. Systematic Reviews and Meta-analyses of the Procedure-specific Risks of Thrombosis and Bleeding in General Abdominal, Colorectal, Upper-Gastrointestinal and Hepatopancreatobiliary Surgery. *Ann Surg.* 2024.
-- Lavikainen LI, Guyatt GH, Luomaranta AL, …, **Halme ALE**, et al. Risk of Thrombosis and Bleeding in Gynecologic Cancer Surgery: Systematic Review and Meta-Analysis. *Am J Obstet Gynecol.* 2023.
-- Lavikainen LI, Guyatt GH, Kalliala IEJ, …, **Halme ALE**, et al. Risk of Thrombosis and Bleeding in Gynecologic Non-Cancer Surgery: Systematic Review and Meta-Analysis. *Am J Obstet Gynecol.* 2023.
+- <u>Lavikainen LI</u>, Guyatt GH, Sallinen VJ, …, **Halme ALE**, et al. Systematic Reviews and Meta-analyses of the Procedure-specific Risks of Thrombosis and Bleeding in General Abdominal, Colorectal, Upper-Gastrointestinal and Hepatopancreatobiliary Surgery. *Ann Surg.* 2024.
+- <u>Lavikainen LI</u>, Guyatt GH, Luomaranta AL, …, **Halme ALE**, et al. Risk of Thrombosis and Bleeding in Gynecologic Cancer Surgery: Systematic Review and Meta-Analysis. *Am J Obstet Gynecol.* 2023.
+- <u>Lavikainen LI</u>, Guyatt GH, Kalliala IEJ, …, **Halme ALE**, et al. Risk of Thrombosis and Bleeding in Gynecologic Non-Cancer Surgery: Systematic Review and Meta-Analysis. *Am J Obstet Gynecol.* 2023.
 
 Conference Presentations
 =====
