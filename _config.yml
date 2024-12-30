@@ -12,7 +12,7 @@ title                    : "Alex Halme"
 title_separator          : "-"
 name                     : &name "Alex Halme"
 description              : &description "personal description"
-url                      : https://alex-halme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexhalme.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
