@@ -27,3 +27,7 @@ group :jekyll_plugins do
   gem "webrick", "~> 1.8"
   gem 'jekyll-seo-tag'
 end
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.6"

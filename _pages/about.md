@@ -22,4 +22,4 @@ You can find my academic publications on:
 - [Google Scholar](https://scholar.google.fi/citations?user=8Upg7wUAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-6597-818X)
 
-You can download my CV [here](files/CV Alex Halme public.pdf).
+You can download my CV [here](files/CV Alex Halme.pdf).
