@@ -1,5 +1,18 @@
 # Authors
 
+Alex Halme:
+  name             : "Alex Halme"
+  email            : "alex.halme@helsinki.fi"
+  bio              : "MD-PhD Student<br>BSc Mathematics<br>Composer and Pianist"
+  avatar           : "profile.png"
+  location         : "Helsinki, Finland"
+  employer         : "University of Helsinki"
+  googlescholar    : "https://scholar.google.com/citations?user=8Upg7wUAAAAJ"
+  orcid            : "https://orcid.org/0000-0001-6597-818X"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=halme+ALE&sort=date&size=200"
+  linkedin         : alexhalme
+  twitter          : halmealex
+
 Name Name:
   name        : "Name Name"
   uri         : "http://name.com"

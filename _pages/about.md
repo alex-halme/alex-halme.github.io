@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
+author: "Alex Halme"
 redirect_from: 
   - /about/
   - /about.html
